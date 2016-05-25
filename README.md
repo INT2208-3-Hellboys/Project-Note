@@ -42,7 +42,7 @@ Giám sát dự án: PhD. Trương Anh Hoàng, nhóm giám sát MH
   -	Các userstory của dự án bao gồm: 
 (đã được thể hiện rất rõ tại cột “Done” của link [Pivotaltracker](https://www.pivotaltracker.com/n/projects/1572825) 
     o	Nếu ko truy nhập được PV, hãy xem [tại đây](https://goo.gl/szsJhC) để xem All user story
-    o Link Web trên Heroku: https://bloodynote.herokuapp.com/
+  - Link Web trên Heroku: https://bloodynote.herokuapp.com/
   -	Tình trạng hiện tại dự án: Cơ bản hoàn thiện
 D.	ĐÁNH GIÁ, RÚT KINH NGHIỆM
   -	Trước hết nhóm tự đánh giá dự án lần này tương đối khó khăn trong tiến trình, nguyên nhân do phương pháp làm việc theo Agile rất mới mẻ. Do có những trì trệ nên tiến độ của nhóm thất thương, tuy vậy nhờ sự nỗ lực của mọi người dự án cơ bản hoàn thành
