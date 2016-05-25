@@ -10,6 +10,7 @@
 
 ## PHẦN II: TỔNG QUAN 
 **A. THÔNG TIN TỔNG QUAN** 
+
 Tên dự án:  Trang web ghi chép online Bloody note  
 Quản lí dự án: Nhóm Hellboys  
 Thực hiện dự án: Nhóm Hellboys  
