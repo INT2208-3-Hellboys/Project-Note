@@ -7595,3 +7595,125 @@ Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127
 
 Started GET "/assets/Pics-Moons-Bloody-Red-Moon-Wallpaper.jpg" for 14.162.148.216 at 2016-05-25 13:21:41 +0000
 Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 58ms (Views: 57.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/notes.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/logo.svg" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Pics-Moons-Bloody-Red-Moon-Wallpaper.jpg" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/callout.jpg" for 14.162.148.216 at 2016-05-25 13:36:02 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/users/sign_in" for 14.162.148.216 at 2016-05-25 13:36:03 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (17.2ms)
+Completed 200 OK in 79ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 14.162.148.216 at 2016-05-25 13:36:03 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:03 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:03 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/notes.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:03 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:03 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:03 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:03 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.css?body=1" for 14.162.148.216 at 2016-05-25 13:36:08 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 14.162.148.216 at 2016-05-25 13:36:09 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (4.6ms)
+Completed 200 OK in 56ms (Views: 55.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 14.162.148.216 at 2016-05-25 13:36:09 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:09 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:09 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:09 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/notes.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:09 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:09 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.js?body=1" for 14.162.148.216 at 2016-05-25 13:36:09 +0000
+Cannot render console from 14.162.148.216! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
