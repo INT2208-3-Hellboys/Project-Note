@@ -44,7 +44,7 @@ Giám sát dự án: PhD. Trương Anh Hoàng, nhóm giám sát MH
     o	Nếu ko truy nhập được PV, hãy xem [tại đây](https://goo.gl/szsJhC) để xem All user story
   - Link Web trên Heroku: https://bloodynote.herokuapp.com/
   -	Tình trạng hiện tại dự án: Cơ bản hoàn thiện
-D.	ĐÁNH GIÁ, RÚT KINH NGHIỆM
+**D. ĐÁNH GIÁ, RÚT KINH NGHIỆM**
   -	Trước hết nhóm tự đánh giá dự án lần này tương đối khó khăn trong tiến trình, nguyên nhân do phương pháp làm việc theo Agile rất mới mẻ. Do có những trì trệ nên tiến độ của nhóm thất thương, tuy vậy nhờ sự nỗ lực của mọi người dự án cơ bản hoàn thành
   -	Kinh nghiệm thu được:
     o	Nắm được tiến trình cơ bản để tạo dựng, triển khai và hoàn thành dự án theo hướng hiện đại.
