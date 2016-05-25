@@ -41,7 +41,7 @@ Giám sát dự án: PhD. Trương Anh Hoàng, nhóm giám sát MH
   -	Phân công thực hiện:
       + Ghi chép, quản lí chung, soạn thảo, thiết lập: Đông
       + Thu thập ý kiến feedback, soạn thảo, kiểm soát tiến độ dự án: Tuân
-      + Kiểm thử, đánh giá code, soát lỗi: Phú
+      + Kiểm thử, đánh giá code, soát lỗi: Phú 
   -	Các userstory của dự án bao gồm: 
       + đã được thể hiện rất rõ tại cột “Done” của link [Pivotaltracker](https://www.pivotaltracker.com/n/projects/1572825) 
       + Nếu ko truy nhập được PV, hãy xem [tại đây](https://goo.gl/szsJhC) để xem All user story
