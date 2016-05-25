@@ -19,6 +19,7 @@ Giám sát dự án: PhD. Trương Anh Hoàng, nhóm giám sát MH
   -	Nguyễn Xuân Phú  
   -	Đinh Huy Tuân  
   Thời gian dự kiến: 3 tháng  
+
 **B. THÔNG TIN CHI TIẾT**
   -	Mục tiêu của dự án: Cung cấp một website ghi chép online cho người dùng mang tên Bloody Note, giúp người dùng có thể ghi chép lại ý tưởng, ghi lại cảm xúc hay note lại những điều quan trọng và cấp thiết ngay lập tức trên web online.  
   -	Tiêu chí: 
@@ -26,6 +27,7 @@ Giám sát dự án: PhD. Trương Anh Hoàng, nhóm giám sát MH
     o	Giao diện: Đặc biệt dễ sử dụng, thân thiện, phù hợp và tạo cảm giác thoải mái, hưng phấn cho người dùng.
   -	Thành viên tham gia dự án: Ban đầu Hellboys Team có 5 người nhưng sau do hai thành viên không hoạt động tích cực nên đã bị loại.
   -	Công nghệ, kĩ thuật: Sử dụng ngôn ngữ lập trình : ruby, sử dụng javascript, html, css,…  Coding trên môi trường c9.io  
+
 **C. KẾ HOẠCH THỰC HIỆN DỰ ÁN**
   -	Thực hiện dự án trong vòng 2 tháng
   -	Công cụ hỗ trợ: 
@@ -44,6 +46,7 @@ Giám sát dự án: PhD. Trương Anh Hoàng, nhóm giám sát MH
     o	Nếu ko truy nhập được PV, hãy xem [tại đây](https://goo.gl/szsJhC) để xem All user story
   - Link Web trên Heroku: https://bloodynote.herokuapp.com/
   -	Tình trạng hiện tại dự án: Cơ bản hoàn thiện
+
 **D. ĐÁNH GIÁ, RÚT KINH NGHIỆM**
   -	Trước hết nhóm tự đánh giá dự án lần này tương đối khó khăn trong tiến trình, nguyên nhân do phương pháp làm việc theo Agile rất mới mẻ. Do có những trì trệ nên tiến độ của nhóm thất thương, tuy vậy nhờ sự nỗ lực của mọi người dự án cơ bản hoàn thành
   -	Kinh nghiệm thu được:
