@@ -39,8 +39,11 @@ Giám sát dự án: PhD. Trương Anh Hoàng, nhóm giám sát MH
 ![alt tag](http://www.screenmedia.co.uk/media/135946/agile-methodolody_695x260.jpg)
 
   -	Phân công thực hiện:
+  
     o	Ghi chép, quản lí chung, soạn thảo, thiết lập: Đông
+
     o	Thu thập ý kiến feedback, soạn thảo, kiểm soát tiến độ dự án: Tuân
+    
     o	Kiểm thử, đánh giá code, soát lỗi: Phú
   -	Các userstory của dự án bao gồm: 
 (đã được thể hiện rất rõ tại cột “Done” của link [Pivotaltracker](https://www.pivotaltracker.com/n/projects/1572825) 
